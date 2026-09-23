@@ -54,7 +54,7 @@ We believe in **transparency, precision, and partnership**. Our team works along
 
 <p>
   <a href="https://www.strategic-blue.com"><img src="https://img.shields.io/badge/Website-strategic--blue.com-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/company/strategic-blue"><img src="https://img.shields.io/badge/LinkedIn-Strategic_Blue-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/company/strategic-blue-ltd"><img src="https://img.shields.io/badge/LinkedIn-Strategic_Blue-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
