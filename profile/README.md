@@ -21,15 +21,15 @@ We combine **commodity trading expertise** with **deep cloud forecasting knowled
 ## Technical Credentials
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-Advanced_Partner-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS Advanced Partner" />
-  <img src="https://img.shields.io/badge/GCP-Premier_Partner-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP Premier Partner" />
-  <img src="https://img.shields.io/badge/FinOps_Foundation-Certified_Provider-00ADD8?style=flat" alt="FinOps Certified" />
+  <a href="https://partners.amazonaws.com/partners/0010L00001kVVxgQAG/Strategic%20Blue"><img src="https://img.shields.io/badge/AWS-Advanced_Partner-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS Advanced Partner" /></a>
+  <a href="https://cloud.google.com/find-a-partner/partner/strategic-blue"><img src="https://img.shields.io/badge/GCP-Premier_Partner-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP Premier Partner" /></a>
+  <a href="https://www.finops.org/members/strategic-blue/"><img src="https://img.shields.io/badge/FinOps_Foundation-Certified_Provider-00ADD8?style=flat" alt="FinOps Certified" /></a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/ISO_27001-Certified-0052CC?style=flat" alt="ISO 27001" />
-  <img src="https://img.shields.io/badge/ISO_9001-Certified-0052CC?style=flat" alt="ISO 9001" />
-  <img src="https://img.shields.io/badge/ISO_14001-Certified-0052CC?style=flat" alt="ISO 14001" />
+  <a href="https://amtivo.com/uk/standards/iso-27001/"><img src="https://img.shields.io/badge/ISO_27001-Certified-0052CC?style=flat" alt="ISO 27001" /></a>
+  <a href="https://amtivo.com/uk/standards/iso-9001"><img src="https://img.shields.io/badge/ISO_9001-Certified-0052CC?style=flat" alt="ISO 9001" /></a>
+  <a href="https://amtivo.com/uk/standards/iso-14001"><img src="https://img.shields.io/badge/ISO_14001-Certified-0052CC?style=flat" alt="ISO 14001" /></a>
 </p>
 
 - **14+ years** of cloud cost forecasting expertise
